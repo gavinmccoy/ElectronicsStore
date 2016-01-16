@@ -1,0 +1,17 @@
+X-Sender: sportsstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: sportsstore@example.com
+To: orders@example.com
+Date: 17 Dec 2015 19:10:55 +0000
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x Amaz=
+onBasics AA Performance Alkaline Batteries [Pack of 48] (subtotal=
+: ?12.991 x TomTom Start 25 5-Inch Sat Nav with Western Europe Ma=
+ps & Lifetime Map Updates (subtotal: ?97.00Total order value: ?10=
+9.99---=0D=0AShip to:=0D=0AGavin McCoy=0D=0A8 The Village=0D=0A=0D=0A=
+=0D=0ANewbridge=0D=0AKildare=0D=0AIreland=0D=0A=0D=0A---=0D=0AGif=
+t wrap: No

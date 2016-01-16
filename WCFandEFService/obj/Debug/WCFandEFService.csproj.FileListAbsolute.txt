@@ -1,0 +1,10 @@
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\WCFandEFService.dll.config
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\WCFandEFService.dll
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\WCFandEFService.pdb
+c:\Projects\ElectronicsStore\WCFandEFService\obj\Debug\WCFandEFService.csprojResolveAssemblyReference.cache
+c:\Projects\ElectronicsStore\WCFandEFService\obj\Debug\WCFandEFService.dll
+c:\Projects\ElectronicsStore\WCFandEFService\obj\Debug\WCFandEFService.pdb
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\EntityFramework.dll
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\EntityFramework.SqlServer.dll
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\EntityFramework.xml
+c:\Projects\ElectronicsStore\WCFandEFService\bin\Debug\EntityFramework.SqlServer.xml

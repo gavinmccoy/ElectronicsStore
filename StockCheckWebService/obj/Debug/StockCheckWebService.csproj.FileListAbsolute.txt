@@ -1,0 +1,6 @@
+c:\Projects\ElectronicsStore\StockCheckWebService\bin\Debug\StockCheckWebService.exe.config
+c:\Projects\ElectronicsStore\StockCheckWebService\bin\Debug\StockCheckWebService.exe
+c:\Projects\ElectronicsStore\StockCheckWebService\bin\Debug\StockCheckWebService.pdb
+c:\Projects\ElectronicsStore\StockCheckWebService\obj\Debug\StockCheckWebService.csprojResolveAssemblyReference.cache
+c:\Projects\ElectronicsStore\StockCheckWebService\obj\Debug\StockCheckWebService.exe
+c:\Projects\ElectronicsStore\StockCheckWebService\obj\Debug\StockCheckWebService.pdb

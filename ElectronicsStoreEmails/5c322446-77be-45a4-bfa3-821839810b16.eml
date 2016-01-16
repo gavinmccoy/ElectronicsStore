@@ -1,0 +1,14 @@
+X-Sender: electronicsstore@example.com
+X-Receiver: orders@example.com
+MIME-Version: 1.0
+From: electronicsstore@example.com
+To: orders@example.com
+Date: 21 Dec 2015 23:53:45 +0000
+Subject: New order submitted!
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+A new order has been submitted=0D=0A---=0D=0AItems:=0D=0A1 x Fire=
+ 7" (subtotal: ?49.99Total order value: ?49.99---=0D=0AShip to:=0D=0A=
+Gavin McCoy=0D=0A8 The Village=0D=0A=0D=0A=0D=0ANewbridge=0D=0AKi=
+ldare=0D=0AIreland=0D=0A=0D=0A---=0D=0AGift wrap: No

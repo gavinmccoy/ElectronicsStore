@@ -1,0 +1,1 @@
+c:\Projects\ElectronicsStore\Electronics.Domain\bin\Debug\Electronics.Domain.exe.config

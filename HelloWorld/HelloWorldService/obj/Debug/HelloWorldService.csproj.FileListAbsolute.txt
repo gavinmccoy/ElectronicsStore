@@ -1,0 +1,5 @@
+c:\Projects\ElectronicsStore\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+c:\Projects\ElectronicsStore\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+c:\Projects\ElectronicsStore\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+c:\Projects\ElectronicsStore\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+c:\Projects\ElectronicsStore\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb
